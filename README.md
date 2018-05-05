@@ -21,7 +21,7 @@ yarn start
 ```
 
 ## Issues encountered
-- Even if you set the graphql server to start at port 4000, the playground forces itself to start at port 3000. This forces you start the react server to a different port (e.g. 3001).
+- Even if you set the graphql server to start at port 4000, the playground forces itself to start at port 3000. This leaves you no choice but to start the react server at a different port (e.g. 3001).
 
 ## Reference
 - https://www.howtographql.com/react-apollo/1-getting-started/
