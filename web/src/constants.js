@@ -1,0 +1,1 @@
+export const AUTH_TOKEN = 'auth-token' // This is normally an actual token
